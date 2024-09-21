@@ -215,6 +215,14 @@ span{
 	background-color: orange;
 }
 
+.scylla .inner{
+	background-color: rgb(170, 23, 138);
+}
+
+.mysql .inner{
+	background-color: rgb(50, 79, 243);
+}
+
 .node .inner{
 	background-color: orange;
 }
